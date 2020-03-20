@@ -1,0 +1,335 @@
+// AUTO-GENERATED
+// iOS strings below this
+// GENERAL
+"app_name" = "رود رنر";
+"logout" = "تسجيل خروج";
+"logout_confirmation" = "هل تريد تسجيل الخروج ؟";
+"cancel" = "إلغاء";
+"ok" = "حسناً";
+"call" = "اتصال";
+"decline" = "رفض";
+"version" = "إصدار";
+"error" = "خطأ";
+"report" = "الابلاغ عن أمر ما";
+"report_issue" = "الابلاغ عن مشكلة ما";
+"copy" = "نسخ";
+"instructions" = "تعليمات";
+"address" = "العنوان";
+"feedback_received" = "تم استلام الرد، شكراً لك!";
+"minutes" = "دقائق";
+"next" = "التالي";
+// LOGIN SCREEN
+"email" = "البريد إليكتروني";
+"email_placeholder" = "example@hungerstation.delivery";
+"password" = "كلمة المرور";
+"login" = "تسجيل دخول";
+"validation_invalid_country" = "اختيار الدولة";
+"validation_invalid_email" = "البريد الإليكتروني غير صحيح";
+"validation_invalid_password" = "كلمة المرور قصيرة جداً";
+"validation_invalid_credentials" = "البيانات المستخدمة غير صحيحة";
+"select_country" = "اختيار الدولة";
+// USER STATUS TAB
+"status" = "الحالة";
+"status_todays_shifts" = "فترات عمل \"شيفتات\" اليوم";
+"reconnect" = "إعادة الاتصال";
+"last_update" = "آخر تحديث قبل %@";
+"content_never_updated" = "لم يتم تحديث البيانات من قبل";
+"status_available" = "متوفر";
+"status_ready" = "جاهز";
+"status_working" = "يعمل";
+"status_pause" = "استراحة";
+"status_ending" = "يتم الانتهاء...";
+"status_not_working" = "لا يعمل";
+"status_starting" = "سيتم البدأ قريباً";
+"status_late" = "متأخر";
+"status_disconnected" = "لا يوجد اتصال";
+"status_current_status" = "الحالة الحالية";
+"status_shift_confirmation" = "هل تود بدأ العمل الان؟";
+"status_shift_not_working_description" = "يمكنك طلب بدء العمل بشكل فوري عندما لا يكون لديك أية فترات عمل \"شيفتات\" مُجدولة.\n
+إذا كنت تود بدء العمل الآن، يُرجى التواصل معنا وسيقوم المشرفين بالتواصل معك إذا كنا بحاجة لكباتن إضافين. سيتم تنبيهك خلال ساعتين للاستعلام إن كنت تريد أن تبقى \"متاح\"، عدا ذلك ستنتهي حالتك المتاحة تلقائياً.";
+"status_waiting_for_call" = "انتظار المكالمة";
+"status_available_description" = "سيتم التواصل معك للمساعدة في إعداد فترة عملك \"شيفتك\" إذا كانت هناك حاجه لكباتن إضافيين للعمل اليوم";
+"status_shift_ending" = "فترة عملك \"الشيفت\" على وشك الإنتهاء";
+"status_shift_ending_description" = "لديك طلب جاري . يُرجى إكمال الطلب قبل إنهاء فترة العمل الخاصة بك \"الشيفت\"";
+"status_report_issue_success" = "سيقوم فريق الإشراف بالتواصل معك بعد قليل للمساعدة في حل المشكلات التي تم بالإبلاغ عنها. إذا كنت ترغب بالاستمرار في العمل يرجى الضغط على الزر أدناه.";
+"status_current_shift" = "جدول العمل الحالي";
+"status_shift_starting" = "فترة العمل \"الشيفت\" التالي";
+"status_shift_late" = "أنت متأخر على ميعاد بدأ فترة عملك \"الشيفت\"";
+"status_report_to_starting_point" = "الرجاء التواجد في نقطة التجمع / البداية والضغط على \"ابدأ\"";
+"time" = "وقت";
+"area" = "منطقة التجمع / بدء العمل";
+"status_report_available" = "أنا متاح";
+"status_report_unavailable" = "أنا غير متاح";
+"status_report_start" = "ابدأ";
+"status_choose_equipment" = "اختيار المعدات";
+"status_vehicle_type" = "نوع المركبة";
+"status_bag_type" = "نوع حقيبة التوصيل";
+"status_ask_report_issue" = "ما نوع المشكلة التي تواجهك؟";
+"status_report_issue_success" = "سيقوم فريق الإشراف بالتواصل معك بعد قليل للمساعدة في حل المشكلات التي تم بالإبلاغ عنها. إذا كنت ترغب بالاستمرار في العمل يرجى الضغط على الزر أدناه.";
+"status_select_issue" = "اختيار الشكوى";
+"status_user_identity_placeholder" = "رقم الهوية";
+"status_report_issue_reason_customer_not_found" = "غير قادر على إيجاد العميل";
+"status_report_issue_reason_break_request" = "طلب استراحة";
+"status_report_issue_reason_equipment_issue" = "عطل في الأدوات";
+"status_report_issue_reason_restaurant_issue" = "مشكلة في المطعم";
+"status_report_issue_reason_app_issue" = "مشكلة في التطبيق";
+// ORDER TAB
+"address_building" = "مبنى";
+"address_apartment_number" = "شقة";
+"address_floor" = "الطابق / الدور";
+"address_company" = "الشركة";
+"address_entrance" = "مدخل";
+"address_intercom" = "انتركوم";
+"address_room_block_floor" = "شقة/مجمع/طابق#";
+"delivery_split_primary" = "طلب كبير توصيله مقسم على أكثر من سائق - مدفوع";
+"delivery_split_secondary" = "طلب كبير توصيله مقسم على أكثر من سائق - غير مدفوع";
+"delivery_wait_for_courier" = "انتظر %@";
+"delivery_find_courier" = "البحث عن الكابتن %@";
+"deliveries" = "عمليات التوصيل";
+"delivery_pickedup" = "تم الاستلام";
+"delivery_droped_off" = "تم التوصيل للعميل";
+"view" = "عرض";
+"delivery_pick_up_details" = "تفاصيل الاستلام";
+"delivery_drop_off_details" = "معلومات التوصيل";
+"delivery_next_steps" = "الخطوات التالية";
+"empty_view_no_devlieries" = "ليس لديك طلبات جارية قيد التوصيل";
+"empty_view_no_devlieries_description" = "الرجاء الرجوع للخلف لمنتصف منطقتك";
+"delivery_pick_up_deliveries_confirmation" = "هل تم استلام الطلبات التالية؟";
+"delivery_pick_up_delivery_confirmation" = "هل تم استلام الطلب التالي؟";
+"delivery_drop_off_deliveries_confirmation" = "هل تم توصيل الطلبات التالية؟";
+"delivery_drop_off_delivery_confirmation" = "هل تم توصيل الطلب التالي؟";
+"accept" = "قبول";
+"confirm" = "تأكيد";
+"delivery_pick_up_over_due" = "تم تجاوز وقت الاستلام";
+"delivery_pick_up_over_due_expected_time_remaining" = "متوقع الوقت المتبقي";
+"delivery_pick_up_over_due_delay_message_prompt" = "الرجاء سؤال %@ عن مدة تجهيز الطعام";
+"delivery_pick_up_over_due_reason_not_there_yet" = "لم أصل هناك بعد";
+"delivery_pick_up_over_due_reason_food_ready" = "الطعام جاهز";
+"privacy_policy_agree" = "أنا اوافق على";
+"privacy_policy_italian_description" = "يحتاج التطبيق إلى الوصول إلى موقعك.
+اضغط على \"ابدأ\" للموافقة على معالجة البيانات لتحديد الموقع جغرافياً
+استكمال البيانات: ";
+"privacy_policy_description" = "سياسة الخصوصية - رودرنر";
+"new_delivery" = "طلب جديد";
+"new_deliveries" = "طلبات جديدة";
+"delivery_halal" = "التوصيل الحلال";
+"delivery_halal_description" = "قم باستخدام صندوق الحلال الأخضر";
+"delivery_non_halal" = "طلب \"ليس حلال\"";
+"delivery_non_halal_description" = "قم باستخدام الصندوق البرتقالي";
+"total_payment" = "إجمالي القيمة";
+"delivery_pay_to_vendor" = "ادفع نقداً للمطعم مباشرةً";
+"delivery_collect_cash_from_customer" = "تحصيل المبلغ من العميل";
+"amount" = "المبلغ";
+
+"delivery_cod_reason_for_difference" = "سبب الاختلاف";
+
+"paid" = "مدفوع مسبقا";
+"delivery_cod_requested_change_for" = "العميل طلب تعديل المبلغ الى %@";
+"pick_up" = "استلام";
+"drop_off" = "موقع التوصيل";
+"delivery_confirm_pick_up" = "تأكيد الاستلام";
+"delivery_confirm_drop_off" = "تأكيد التسليم";
+"delivery_cod_investigation_follows" = "سيتم التحقيق";
+"delivery_cod_cash_discrepancy_fraud_warning" = "لمنع الاحتيال، كلما تم الإبلاغ عن اختلاف في القيمة المدفوعة، سيتم اجراء تحقيق لتحديد ما إذا كان التقرير الخاص بك مطابق للواقعة. \ n \ n ومع ذلك، إذا لم تُـبلغ عن اختلاف في القيمة المدفوعة، فستكون مسؤولاً عن أي فرق في إجمالي التحصيل.";
+"report_successful" = "تم الابلاغ بنجاح";
+"delivery_cod_discrepancy_reported" = "تم الإبلاغ عن المشكلة المتعلقة باختلاف القيمة المدفوعة \"الحساب\" بنجاح.";
+"delivery_cod_reason_wrong_items" = "أصناف خاطئة";
+"delivery_cod_reason_missing_items" = "أصناف مفقودة";
+"delivery_cod_reason_damaged_items" = "أصناف متلفة";
+"delivery_cod_reason_customer_wont_pay" = "العميل لا يريد دفع قيمة الطلب ";
+"delivery_cod_reason_canceled_order" = "الطلب ملغي";
+"delivery_cod_reason_courier_not_compliant" = "الكابتن غير مصرح له";
+
+// HISTORY TAB
+"history" = "تاريخ";
+"latest_delivery" = "آخر طلب تم توصيله";
+"summary" = "ملخص";
+"distance" = "المسافة";
+"tip" = "إرشاد";
+"collected" = "تم تحصيل المبلغ";
+"delivery_items" = "اصناف الطلب";
+"total" = "الإجمالي";
+// Settings
+"settings" = "إعدادات";
+"feedback" = "ملحوظات";
+// User Preference
+"user_preference" = "إعداداتك الخاصة";
+"countdown" = "العد التنازلي";
+"clock" = "الساعة";
+"google" = "غوغل";
+"apple" = "آبل";
+"map" = "خريطة";
+"here_maps" = "هير مابس";
+"maps_me" = "مابس مي";
+"user_info" = "معلومات المستخدم";
+// ERRORS
+"validation_location_enable" = "يجب تفعيل الموقع للتمكن من بدء العمل";
+"validation_mail_configure" = "يجب عليك ضبط البريد الإلكتروني من خلال إعدادت هاتفك";
+"error_general" = "حدث خطأ ما";
+"error_authentication_needed" = "يجب توثيق الدخول";
+"error_invalid_phone_number" = "رقم المحمول غير صحيح";
+"mail_feedback_below" = "يرجى ترك ملاحظاتك أدناه.";
+// Wallet
+"wallet" = "المحفظة";
+"last_clearance" = "المخالصة الأخيرة";
+"expected" = "المبلغ المُتوقع استلامه";
+"actual" = "المبلغ المُستلم فعلياً";
+"transaction_failed" = "فشل عملية استلام المبلغ";
+"barcode" = "باركود";
+"create_barcode" = "انشاء باركود جديد";
+"reason" = "السبب";
+"waze" = "ويز";
+"cash_transactions" = "عمليات الدفع نقداً \"كاش\"";
+"issues" = "مشاكل \"الدفع عند الاستلام\" غير المحلولة";
+"view_barcode" = "إظهار الباركود";
+
+"transaction_failed_description" = "التواصل مع مشرف فترة العمل \"الشيفت\"";
+"empty_view_no_wallet_title" = "لم يتم العثور على أي نشاط لجمع مبالغ نقدية";
+"other" = "آخر";
+"address_room" = "مجال";
+"inapp_map_enable" = "تفعيل الخريطة";
+"inapp_map_data_warning" = "لم يتم ضبط وضع الخرائط دون اتصال. ربما يتم استخدام بيانات شبكة هاتف إضافية";
+"mapbox_metric" = "مقاييس ماب بوكس";
+"mapbox_metric_description" = "تفعيل مقاييس ماب بوكس سيمكن رود رنر من إرسال بيانات جغرافية عشوائية لـ ماب بوكس والتي ستُستخدم في تحسين بيانات الخرائط وخطوط السير  ";
+"map_preferences" = "خصائص الخريطة";
+"navigation_app" = "تطبيق التنقل";
+"map_tab_description" = "يوفر رود رنر حالياً تبويباً لإظهار طلبات التوصيل ";
+"rider_experience_description" = "نحرص على تجربتكم مع كباتننا. اضغط هنا لمشاركة آرائك من خلال استبيان تجربتكم مع الكابتن (ربما يستغرق~10 دقائق) ";
+"status_on_demand_description" = "اضغط \"ابدأ العمل\" لتهيئة جدول عمل. ربما يستغرق جدول العمل حوالي ثلاث دقائق قبل ظهوره على رود رنر";
+"status_start_working" = "ابدأ العمل";
+"status_stop_working" = "التوقف عن العمل";
+"status_report_issue_reason_take_break" = "بدء فترة الراحة";
+// Rider Servey
+"submit" = "أرسل";
+"enjoying_roadrunner" = "هل تستمتع بتجربة رود رنر؟";
+"rate" = "تقييم";
+"later" = "لاحقاً";
+"thank_you" = "شكراً لك!";
+"survey_rating_completed_positive" = "نسعد برضائكم";
+"survey_rating_completed_negative" = "يؤسفنا معرفة ذلك!";
+
+"refer_a_friend" = "رشح صديقاً لك";
+"support" = "الدعم";
+"live_chat" = "المحادثة المباشرة";
+"status_starting_error_map" = "قم بفتح الخريطة لمعرفة منطقة البداية الخاصة بك";
+"disabled" = "مصاب بعجز";
+"walking" = "المشى";
+"driving" = "قيادة السياره";
+"cycling" = "قيادة الدراجة";
+"map_route" = "اتجاه الخريطة";
+"address_district" = "منطقة";
+"address_block" = "قطعة";
+"notification" = "إشعار";
+"warning" = "تحذير";
+"clear" = "واضح";
+"save_signature_dropoff" = "قم بالتسجيل ثم وصل الطلب";
+"signature_description" = "وقع اسمك باستخدام الاصبع
+";
+"signature" = "التوقيع والانزال
+";
+"delivery_collect_cash" = "جمع النقدية
+";
+"delivery_credit_card" = "بطاقة الائتمان المطلوبة
+";
+"delivery_credit_card_detail" = "استخدم جهازPOS لتحصيل الدفع
+";
+"delivery_customer_signature" = "احصل علي توقيع العملاء
+";
+
+"customer_chat_send_place_holder" = "ارسال الرد الي العميل ";
+"chat_preferred_language" = "لغة المحادثة المفضلة
+";
+"chat_typing" = "يكتب";
+"wallet_top_up" = "سوف تجني %1$s";
+"wallet_top_up_title" = "تم الإرسال";
+"wallet_top_up_description" = "بطاقة واحدة";
+"wallet_top_up_invalid_number" = "تم إرسال كلمة مرور جديدة عبر رسالة نصية";
+"send" = "من فضلك أدخل رقماً صحيحً";
+
+"reset_password" = "تعبئة الرصيد";
+"reset_password_success" = "إعادة تعيين كلمة المرور
+";
+"forgot_password" = "نسيت كلمة المرور";
+
+"delivery_pay_at_pickup" = "إدفع عند الإستلام ";
+"cash" = "نقد";
+"delivery_earning" = "فاتورة";
+"change_password" = "ربح";
+"delivery_receipt_add_photo" = "أرفق الفاتروة";
+"delete" = "حمل و إلتقط";
+"receipt" = "حذف";
+"delivery_receipt_skip_and_upload" = "صور";
+"delivery_receipt_upload_and_pickup" = "تخطي و إلتقط";
+"delivery_receipt_attached" = "تم إضافته إلى محفظتك!";
+"try_again" = "للبدء ، يرجى تحديد البلد";
+"deliveiries_receipt_capture_receipt" = "تغيير كلمة المرور";
+"skip" = "حاول مرة أخرى";
+"delivery_receipt_upload_failure" = "تخطي";
+"delivery_receipt_upload_failure_description" = "لا اتمكن من تحميل الملف";
+"welcome" = "استلم الفاتورة";
+"welcome_description" = "ياهلا";
+"payment" = "يمكنك المحاولة مرة أخرى أو تخطي هذه الخطوة وإنهاء التقاط.";
+"collection" = "دفع";
+"validation_invalid_phone" = "رقم المحمول غير صحيح";
+"reset_password_description" = "";
+"notifications" = "";
+"no_notifications" = "";
+"create_payment_code" = "";
+"payment_code" = "";
+"easy_pay_payment_info" = "";
+"easy_pay_expiration_info" = "";
+"view_payment_code" = "";
+"customer_chats" = "";
+"to_pick_up" = "";
+"to_drop_off" = "";
+"equipment_damage_policy" = "";
+"freshchat_chat_resolution_survey_question" = "هل قمنا بحل مشكلتك؟
+";
+"freshchat_chat_resolution_confirmation_prompt" = "هل قمنا بالرد على استفسارك؟";
+"freshchat_chat_resolution_confirmation_prompt_positive" = "";
+"freshchat_chat_resolution_confirmation_prompt_negative" = "";
+"freshchat_chat_resolution_suggestions_prompt" = "كيف كان يمكن مساعدتكم بطريقه افضل؟";
+"freshchat_chat_rating_submit" = "";
+"freshchat_chat_resolution_user_comments_hint" = "";
+"wallet_top_up_success" = "";
+"wallet_top_up_success_description" = "ناجح";
+"delivery_qrcode_confirm_payment" = "";
+"delivery_qrcode_display_ask_customer_to_scan" = "";
+"delivery_qrcode_paid_success" = "";
+"request_break" = "الأجهزة التي تعمل بنظام أقل من أندرويد ٥. لن تتمكن من تحديث إصدار رود رنر";
+"warning_confirmation_sure" = "اطلب استراحة";
+"request_break_confirmation_message" = "";
+"continue" = "هل أنت متأكد؟ هناك عدد كبير من الطلبات!";
+"select_duration" = "";
+"please_select" = "";
+"request_break_not_allowed" = "";
+"request_break_success" = "عذرا، لا يمكننا ان نعطيك استراحة حاليا، نحن بحاجة إليك!";
+"success" = "انت الآن في استراحة إلى";
+"cash_out" = "";
+"select_provider" = "";
+"cash_out_user_id_instructions" = "";
+"cash_out_user_id_title" = "";
+"cash_out_link_button" = "";
+"cash_out_code_title" = "";
+"cash_out_code_instructions" = "";
+"cash_out_link_instructions" = "";
+"cash_out_pago46_link_footer" = "";
+"cash_out_dragonpay_user_id_footer" = "";
+"cash_out_easypay_code_footer" = "";
+"wallet_top_up_voucher_error" = "";
+"request_break_not_allowed_ongoing_delivery" = "عفوًا لا يمكنك الاستفادة من هذا العرض 
+";
+"request_break_not_allowed_high_delayed" = "لا يمكنك طلب استراحة حاليا، لديك طلب. يمكنك طلب الاستراحة بعد ان تكمل طلبك؟";
+"request_break_not_allowed_for_current_state" = "عذرا، لا يمكننا ان نعطيك استراحة حاليا، نحن بحاجة إليك!";
+"onboarding" = "فوائد";
+"benefits" = "";
+"user_profile" = "التدريب";
+"shifts" = "حسابي";
+"pending_transaction_warning" = "تحميل";
+"pending_transaction_warning_subtitle" = "";
+"break_ending_at" = "";
+"shift_extension" = "";
+"shift_extension_explanation" = "";
+"notification_detail_title" = "";
+"end_break" = "";
+"login_phone_placeholder_title" = "";
