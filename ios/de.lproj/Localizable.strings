@@ -211,7 +211,7 @@
 "map_route" = "Kartenroute";
 "address_district" = "Stadtteil";
 "address_block" = "Block";
-"notification" = "";
+"notification" = "Benachrichtigung";
 "warning" = "";
 "clear" = "";
 "save_signature_dropoff" = "";
