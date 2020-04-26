@@ -212,7 +212,7 @@
 "address_district" = "Stadtteil";
 "address_block" = "Block";
 "notification" = "Benachrichtigung";
-"warning" = "";
+"warning" = "Warnung";
 "clear" = "";
 "save_signature_dropoff" = "";
 "signature_description" = "";
