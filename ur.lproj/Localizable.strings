@@ -1,0 +1,346 @@
+// AUTO-GENERATED
+// iOS strings below this
+// GENERAL
+"app_name" = "روڈرنر";
+"logout" = "لاگ آوٹ";
+"logout_confirmation" = "کیا آپ لاگ آؤٹ کرنا چاہتے ہیں؟";
+"cancel" = "Cancel| منسوخ";
+"ok" = "ٹھیک ہے";
+"call" = "Call| کال کریں";
+"decline" = "کمی";
+"version" = "ورژن";
+"error" = "خرابی";
+"report" = "رپورٹ";
+"report_issue" = "رپورٹ کا مسئلہ";
+"copy" = "Copy / کاپی";
+"instructions" = "ہدایات";
+"address" = "Address| پتہ";
+"feedback_received" = "آپ کی رائے موصول، آپ کا شکریہ!";
+"minutes" = "منٹ";
+"next" = "اگلے";
+// LOGIN SCREEN
+"email" = "ارسال";
+"email_placeholder" = "example@mail.com";
+"password" = "پاس ورڈ";
+"login" = "لاگ ان";
+"validation_invalid_country" = "ملک کا انتخاب کیجئے";
+"validation_invalid_email" = "غلط ای میل";
+"validation_invalid_password" = "پاس ورڈ بہت مختصر ہے";
+"validation_invalid_credentials" = "جعلی اسناد";
+"select_country" = "ملک کا انتخاب کیجئے";
+// USER STATUS TAB
+"status" = "حیثیت";
+"status_todays_shifts" = "آج کی شفٹوں";
+"reconnect" = "دوبارہ رابطہ کریں";
+"last_update" = "آخری اپ ڈیٹ <منٹ/> پہلے";
+"content_never_updated" = "Content / مواد کو کبھی بھی اپ ڈیٹ نہیں کیا گیا ہے";
+"status_available" = "Available | دستیاب";
+"status_ready" = "تیار";
+"status_working" = "ورکنگ";
+"status_pause" = "Break | وقفہ";
+"status_ending" = "ختم";
+"status_not_working" = "کام نہیں کررہا";
+"status_starting" = "جلد ہی شروع ہونے والے";
+"status_late" = "دیر";
+"status_disconnected" = "کوئی کنیکٹوٹی نہیں ہے";
+"status_current_status" = "موجودہ صورت حال / Status";
+"status_shift_confirmation" = "کیا آپ اب کام کرنا چاہتے ہیں؟";
+"status_shift_not_working_description" = "\"جب آپ کے پاس کوئی شیڈول نہیں ہے تو آپ اس وقت کام کرنے کی پیشکش کرسکتے ہیں. /n
+ اگر آپ اب کام کرنے میں دلچسپی رکھتے ہیں، تو ہمیں بتائیں اور ہمیں مزید سوار کرنے کی ضرورت ہے تو ڈسپیچرز آپ کو کال کریں گے. اگر آپ دستیاب رہنا چاہتے ہیں تو آپ صرف 2 گھنٹوں میں ایک نوٹیفکیشن ملیں گے، ورنہ آپ کی دستیابی ختم ہوجائے گی. \"";
+"status_waiting_for_call" = "کال کے انتظار میں";
+"status_available_description" = "اگر آپ کو آج کام کرنے کے لئے اضافی افراد کی ضرورت ہوتی ہے تو آپ کو آپ کی شفایابی کی ترتیب میں مدد کرنے کیلئے آپ کو فون کال مل جائے گا";
+"status_shift_ending" = "آپ کی تبدیلی تقریبا ختم ہو چکی ہے";
+"status_shift_ending_description" = "آپ کے پاس ایک جاری ترسیل ہے. آپ کی شفٹ ختم ہونے سے پہلے آپ کے حکم کو مکمل کریں";
+"status_report_issue_success" = "آپ کو اپنی اطلاع کے معاملات کو حل کرنے کے لئے ڈسپیچرز سے جلد ہی کال وصول ہوگا. اگر آپ کام کرنا چاہتے ہیں تو براہ کرم ذیل کے بٹن پر کلک کریں.";
+"status_current_shift" = "موجودہ شفٹ";
+"status_shift_starting" = "انے والے شفٹ";
+"status_shift_late" = "آپ اپنی شفقت کے لئے دیر ہو گئے ہیں!";
+"status_report_to_starting_point" = "براہ کرم اپنے ابتدائی پوائنٹ کی رپورٹ کریں اور 'شروع کریں' ٹیپ کریں";
+"time" = "وقت";
+"area" = "کام شروع کرنے کا علاقہ / نقطہ اغاز";
+"status_report_available" = "میں دستیاب ہوں";
+"status_report_unavailable" = "میں دستیاب نہیں ہوں";
+"status_report_start" = "شروع";
+"status_choose_equipment" = "سامان منتخب کریں";
+"status_vehicle_type" = "گاڑی کی قسم";
+"status_bag_type" = "بیگ کی قسم";
+"status_ask_report_issue" = "آپ کے کیا مسئلہ ہیں؟";
+"status_report_issue_success" = "آپ کو اپنی اطلاع کے معاملات کو حل کرنے کے لئے ڈسپیچرز سے جلد ہی کال وصول ہوگا. اگر آپ کام کرنا چاہتے ہیں تو براہ کرم ذیل کے بٹن پر کلک کریں.";
+"status_select_issue" = "مسئلہ منتخب کریں";
+"status_user_identity_placeholder" = "قومی شنا ختی کارڈ";
+"status_report_issue_reason_customer_not_found" = "کسٹمر تلاش کرنے سے قاصر";
+"status_report_issue_reason_break_request" = "ایک وقفے کی درخواست کریں";
+"status_report_issue_reason_equipment_issue" = "سامان مسئلہ";
+"status_report_issue_reason_restaurant_issue" = "ریسٹورانٹ مسئلہ";
+"status_report_issue_reason_app_issue" = "ایپ کا مسئلہ";
+// ORDER TAB
+"address_building" = "عمارت";
+"address_apartment_number" = "اپارٹمنٹ";
+"address_floor" = "فلور";
+"address_company" = "کمپنی";
+"address_entrance" = "داخلہ";
+"address_intercom" = "انٹرکام";
+"address_room_block_floor" = "کمرہ / بلاک / فلور #";
+"delivery_split_primary" = "سپلٹ ڈلیوری - بنیادی";
+"delivery_split_secondary" = "سپلٹ ڈلیوری - سیکنڈری";
+"delivery_wait_for_courier" = "%@ کے لئے انتظار کریں";
+"delivery_find_courier" = " کورئیر%@ کو تلاش کریں";
+"deliveries" = "ڈلیوری";
+"delivery_pickedup" = "اٹھایا";
+"delivery_droped_off" = "اتار دیا گیا تھا";
+"view" = "دیکھیں";
+"delivery_pick_up_details" = "اٹھاو تفصیلات";
+"delivery_drop_off_details" = "تفصیلات ڈراپ آف کریں";
+"delivery_next_steps" = "اگلے مراحل";
+"empty_view_no_devlieries" = "آپ کے پاس کوئی التواء ترسیل نہیں ہے";
+"empty_view_no_devlieries_description" = "براہ مہربانی اپنے زون کے مرکز میں واپس جائیں";
+"delivery_pick_up_deliveries_confirmation" = "کیا آپ نے مندرجہ ذیل ترسیل اٹھایا ہے؟";
+"delivery_pick_up_delivery_confirmation" = "کیا آپ نے مندرجہ ذیل ترسیل اٹھایا ہے؟";
+"delivery_drop_off_deliveries_confirmation" = "آپ کو مندرجہ ذیل کی ترسیل بند کر گرا دیا ہے؟";
+"delivery_drop_off_delivery_confirmation" = "آپ کو مندرجہ ذیل کی ترسیل بند کر گرا دیا ہے؟";
+"accept" = "قبول کریں";
+"confirm" = "Confirm / تصدیق کریں";
+"delivery_pick_up_over_due" = "اٹھاو اضافی";
+"delivery_pick_up_over_due_expected_time_remaining" = "باقی متوقع وقت";
+"delivery_pick_up_over_due_delay_message_prompt" = "براہ کرم %@ سے پوچھیں کہ کتنے وقت تک کھانا تیار نہیں ہے";
+"delivery_pick_up_over_due_reason_not_there_yet" = "میں ابھی تک وہاں نہیں ہوں";
+"delivery_pick_up_over_due_reason_food_ready" = "کھانا تیار ہے";
+"privacy_policy_agree" = "میں اتفاق کرتا ہوں";
+"privacy_policy_italian_description" = " آپ کے لئے ایک اپ ڈیٹ کیا گیا ہے.
+ Clicca su \"\" START \"\" کے بارے میں فائنل کی طرف سے ایک ٹرانسمیشن کی طرف سے حتمی طور پر geo-localizzazione.
+ انفارمیٹر مکمل کریں:";
+"privacy_policy_description" = "روڈرنر رازداری کی پالیسی";
+"new_delivery" = "نئی ترسیل";
+"new_deliveries" = "نئی ترسیل";
+"delivery_halal" = "حلال ترسیل";
+"delivery_halal_description" = "سبز حلال کا استعمال کریں";
+"delivery_non_halal" = "غیر حلال ترسیل";
+"delivery_non_halal_description" = "اورنج باکس کا استعمال کریں";
+"total_payment" = "کل ادائیگی";
+"delivery_pay_to_vendor" = "وینڈر کو نقد رقم ادا کرو";
+"delivery_collect_cash_from_customer" = "کسٹمر سےCash / رقم وصول کریں";
+"amount" = "رقم";
+
+"delivery_cod_reason_for_difference" = "فرق کی وجہ";
+
+"paid" = "ادا کی";
+"delivery_cod_requested_change_for" = "کسٹمرکورقم کا %@ چاہئے";
+"pick_up" = "اٹھاو";
+"drop_off" = "ڈراپ آف / Drop-off";
+"delivery_confirm_pick_up" = "Pickup / اٹھانے کی تصدیق کریں";
+"delivery_confirm_drop_off" = "Drop-off / ڈراپ آف کی تصدیق کریں";
+"delivery_cod_investigation_follows" = "تحقیقاتی پیروی کریں گے";
+"delivery_cod_cash_discrepancy_fraud_warning" = "دھوکہ دہی کو روکنے کے لئے، جب بھی نقد تنازع کی اطلاع دی جاتی ہے تو، تحقیقات اس کی پیروی کرے گی کہ آپ کی رپورٹ سچائی ہے یا نہیں. \ n \ n تاہم، اگر آپ نقد رقم کی تشخیص نہیں کرتے تو آپ کسی بھی توازن کے فرق کے ذمہ دار ہوں گے";
+"report_successful" = "رپورٹ کامیاب";
+"delivery_cod_discrepancy_reported" = "نقد اختلافات کے ساتھ آپ کا مسئلہ کامیابی سے اطلاع دی گئی ہے.";
+"delivery_cod_reason_wrong_items" = "غلط اشیا";
+"delivery_cod_reason_missing_items" = "اشیا لاپتہ";
+"delivery_cod_reason_damaged_items" = "خراب/ ناقابل استعمال اشیاء";
+"delivery_cod_reason_customer_wont_pay" = "کسٹمر بل ادا نہیں کرے گا";
+"delivery_cod_reason_canceled_order" = "منسوخ کردہ آرڈر";
+"delivery_cod_reason_courier_not_compliant" = "کوریئر ہدایات پر عمل نہیں کر رہا";
+
+// HISTORY TAB
+"history" = "تاریخ";
+"latest_delivery" = "تازہ ترین ڈلیوری";
+"summary" = "خلاصہ";
+"distance" = "فاصلہ / Distance";
+"tip" = "ٹپ";
+"collected" = "Cash / رقم وصول ہوگئ";
+"delivery_items" = "ڈلیوری اشیا";
+"total" = "کل";
+// Settings
+"settings" = "ترتیبات";
+"feedback" = "آپ کی رائے";
+// User Preference
+"user_preference" = "آپ کی ترجیحات";
+"countdown" = "الٹی گنتی";
+"clock" = "گھڑی";
+"google" = "گوگل";
+"apple" = "ایپل";
+"map" = "نقشہ";
+"here_maps" = "یہاں نقشہ";
+"maps_me" = "نقشہ جات";
+"user_info" = "آپ کی معلومات";
+// ERRORS
+"validation_location_enable" = "مقام کام کرنے کے لئے ضروری ہے اور اسے فعال ہونا ضروری ہے";
+"validation_mail_configure" = "آپ کو اپنے فون کی ترتیبات میں ای میل ترتیب دینا ہوگا";
+"error_general" = "کچھ غلط ہو گیا!";
+"error_authentication_needed" = "تصدیق کی ضرورت ہے";
+"error_invalid_phone_number" = "غلط فون نمبر";
+"mail_feedback_below" = "ذیل میں آپ کے فیڈ بیک چھوڑ براہ مہربانی.";
+// Wallet
+"wallet" = "والیٹ";
+"last_clearance" = "آخری کلیئرنس";
+"expected" = "متوقع COD رقم";
+"actual" = "اصل میثاق جمہوریت رقم جمع";
+"transaction_failed" = "COD ٹرانزیکشن ناکام ہوگیا";
+"barcode" = "بارکوڈ";
+"create_barcode" = " بارکوڈ بنانا";
+"reason" = "وجہ";
+"waze" = "ویز";
+"cash_transactions" = "نقد لین دین";
+"issues" = "خاص طور پر، غیر حل شدہ سی او ڈی کے مسائل";
+"view_barcode" = "بارکوڈ دیکھیں";
+
+"transaction_failed_description" = "اپنے شفٹ سپروائزر سے رابطہ کریں";
+"empty_view_no_wallet_title" = "کوئی نقد جمع کرنے والی سرگرمی نہیں ملی.";
+"other" = "دیگر";
+"address_room" = "کمرہ";
+"inapp_map_enable" = "نقشہ کو فعال کریں";
+"inapp_map_data_warning" = "آف لائن موڈ ترتیب نہیں دیا گیا ہے. اضافی ڈیٹا کا استعمال ہو گا";
+"mapbox_metric" = "نقشہ باکس میٹرن";
+"mapbox_metric_description" = "\"میپ باکس میٹرکس\" کو فعال کرنے سے روڈرنر میپ باکس پر گمنام  مقام کی معلومات بھیج سکے گا جو نقشے اور روٹنگ کی معلومات کو بہتر بنانے میں مدد دے گا";
+"map_preferences" = "نقشہ کی ترجیحات";
+"navigation_app" = "نیوی گیشن اپلی کیشن";
+"map_tab_description" = "روڈرنر ڈلیوریز دیکھنے کے لئے نقشہ کے ٹیب کی مدد لیجیے  ";
+"rider_experience_description" = "ہم آپ کے سواری کا تجربہ بہتر بنانا چاہتے ہیں. ہمارے رائڈر تجربہ سروے (~ 10 منٹ) میں اپنے خیالات کا اظہار کرنے کے لئے یہاں کلک کریں.";
+"status_on_demand_description" = "سٹارٹ ورکںگ پر کلک کریں اپنی شفٹ شروع کرنے کے لیے،تقریبا ٣ منٹ درکار ہوتے ہیں شفٹ روڈ رنر میں شو ہونے میں";
+"status_start_working" = "کام شروع کریں";
+"status_stop_working" = "کام کرنا بند کریں";
+"status_report_issue_reason_take_break" = "وقفہ لیجیے";
+// Rider Servey
+"submit" = "جمع";
+"enjoying_roadrunner" = "روڈ رنر سے لطف اندوز ورہورھے ھیں؟";
+"rate" = "ریٹ";
+"later" = "بعد میں";
+"thank_you" = "شکریہ";
+"survey_rating_completed_positive" = "ہم خوش ہیں کہ آپ لطف اندوز ہو رہے ہیں.";
+"survey_rating_completed_negative" = "ھمیں یہ سن کر افسوس ہوا";
+
+"refer_a_friend" = "دوست کا حوالہ دیں";
+"support" = "سپورٹ ";
+"live_chat" = "لائیو چیٹ / گفتگو ";
+"status_starting_error_map" = "اپنا شروعاتی زون دیکھنے کے لئے نقشہ کو فعال کریں";
+"disabled" = "غیر فعال / ڈیسبلیڈ ";
+"walking" = "چل رہا ہے / واکنگ ";
+"driving" = "ڈرائیونگ";
+"cycling" = "سائکلنگ";
+"map_route" = "نقشہ کے راستے ";
+"address_district" = "ضلع / ڈسٹرکٹ ";
+"address_block" = "بلاک";
+"notification" = "اطلاع";
+"warning" = "انتباہ";
+"clear" = "واضح";
+"save_signature_dropoff" = "دستخط کریں اور چھوڑ دیں";
+"signature_description" = "نگلی کا استعمال کرتے ہوئے اپنا نام سائن کریں";
+"signature" = "دستخط اور ڈراپ";
+"delivery_collect_cash" = "کیش جمع";
+"delivery_credit_card" = "کریڈٹ کارڈ کی ضرورت ہے";
+"delivery_credit_card_detail" = "پیسہ جمع کرنے کے لۓ اپنے POS آلہ کا استعمال کریں";
+"delivery_customer_signature" = "کسٹمر دستخط پر قبضہ کریں";
+
+"customer_chat_send_place_holder" = "گاہک کو جواب بھیجیں";
+"chat_preferred_language" = "زبان پسندیدہ چیٹ";
+"chat_typing" = "ٹائپنگ";
+"wallet_top_up" = "ٹوپ اپ";
+"wallet_top_up_title" = "ایک کارڈ";
+"wallet_top_up_description" = "براہ کرم اپنے ایک کارڈ پر \ n 16 ہندسوں کا نمبر درج کریں";
+"wallet_top_up_invalid_number" = "براہ مہربانی ایک درست نمبر درج کریں";
+"send" = "بھیجیں";
+
+"reset_password" = "پاس ورڈ ری سیٹ";
+"reset_password_success" = "نیا پاس ورڈ میسج کے ذریعے بھیجا گیا تھا";
+"forgot_password" = "پاسورڈ بھول گے؟";
+
+"delivery_pay_at_pickup" = "پٹ اپ پر ادائیگی کریں";
+"cash" = "نقد";
+"delivery_earning" = "کمانا";
+"change_password" = "پاس ورڈ تبدیل کریں";
+"placeholder_email_or_phone" = "فون (05123456)";
+"delivery_receipt_add_photo" = "عکس بندی کا عمل";
+"delete" = "ختم کریں";
+"receipt" = "رسید";
+"delivery_receipt_skip_and_upload" = "چھوڑو اور اٹھاو";
+"delivery_receipt_upload_and_pickup" = "اپ لوڈ اور اٹھاو";
+"delivery_receipt_attached" = "رسید منسلک";
+"try_again" = "دوبارہ کوشش کریں";
+"deliveiries_receipt_capture_receipt" = "رسید گرفتاری";
+"skip" = "چھوڑ دو";
+"delivery_receipt_upload_failure" = "فائل ٹرانسلیٹ اپ لوڈ کرنے سے قاصر";
+"delivery_receipt_upload_failure_description" = "آپ دوبارہ کوشش کر سکتے ہیں یا اس مرحلے کو چھوڑ کر اٹھا سکتے ہیں۔ فائل ٹرانسلیٹ";
+"welcome" = "خوش آمدید";
+"welcome_description" = "شروع کرنے کے لئے ، براہ کرم اپنا ملک منتخب کریں";
+"payment" = "ادائیگی";
+"collection" = "جمع کرنا";
+"validation_invalid_phone" = "غلط فون نمبر";
+"reset_password_description" = "برائے کرم اپنا فون نمبر درج کریں";
+"notifications" = "اطلاعات";
+"no_notifications" = "کوئی اطلاعات نہیں";
+"create_payment_code" = "ادائیگی کا کوڈ بنائیں";
+"payment_code" = "ادائیگی کا کوڈ";
+"easy_pay_payment_info" = "پ مذکورہ کوڈ کا استعمال کرتے ہوئے یس پے / ایپی چینلز کے ذریعہ ادائیگی کرسکتے ہیں۔";
+"easy_pay_expiration_info" = "جب کوڈ کی میعاد ختم ہوجائے گی تو ، آپ کسی نئے سے درخواست کرنے کے قابل ہوجائیں گے۔";
+"view_payment_code" = "ادائیگی کا کوڈ دیکھیں";
+"customer_chats" = "کسٹمر چیٹس";
+"to_pick_up" = "ادائیگی کے کوڈ کو دیکھنے کے لئے";
+"to_drop_off" = "چھوڑنے کے لئے";
+"equipment_damage_policy" = "میں اتفاق کرتا ہوں کہ اگر میں کام کے سامان کو غلط جگہ پر پہنچا یا نقصان پہنچا تو میری تنخواہ میں کمی ہوگی۔";
+"freshchat_chat_resolution_survey_question" = "کیا ہم نے آپ کا مسئلہ حل کیا؟";
+"freshchat_chat_resolution_confirmation_prompt" = " کیا ہم نے آپ کے تمام سوالات کے جواب دئیے ؟";
+"freshchat_chat_resolution_confirmation_prompt_positive" = "جی ہاں!";
+"freshchat_chat_resolution_confirmation_prompt_negative" = "کوئی";
+"freshchat_chat_resolution_suggestions_prompt" = "ہم آپکی مزید بہتر مدد کیسے کرسکتے ہیں ؟";
+"freshchat_chat_rating_submit" = "بھیجیں";
+"freshchat_chat_resolution_user_comments_hint" = "اضافی آراء بھیجیں";
+"wallet_top_up_success" = "کامیابی!";
+"wallet_top_up_success_description" = "آپ کے بٹوے میں شامل کیا گیا ہے";
+"delivery_qrcode_confirm_payment" = "کیو آر کوڈ سی کیرن جمع کریں";
+"delivery_qrcode_display_ask_customer_to_scan" = "اضافی آراء بھیجیں";
+"delivery_qrcode_paid_success" = "ادائیگی کامیابی کے ساتھ کی گئی ہے۔";
+"request_break" = "وقفے کی درخواست کریں";
+"warning_confirmation_sure" = "کیا تمہیں یقین ہے؟
+
+
+";
+"request_break_confirmation_message" = "کیا تمہیں یقین ہے؟ احکامات آ رہے ہیں! وقفے سے جانا آپ کی تشخیص کو متاثر کرے گا
+
+
+";
+"continue" = "جاری رہے
+
+
+";
+"select_duration" = "مدت منتخب کریں";
+"please_select" = "براہ مہربانی منتخب کریں";
+"request_break_not_allowed" = "معذرت ، ابھی آپ وقفے پر نہیں جاسکتے ہیں۔ ہمیں آپکی ضرورت ہے!
+
+
+";
+"request_break_success" = "آپ اس وقت تک بریک پر ہیں";
+"success" = "کامیابی";
+"cash_out" = "کیش آؤٹ";
+"select_provider" = "ادائیگی فراہم کنندہ کیرن کا انتخاب کریں";
+"cash_out_user_id_instructions" = "ادائیگی مکمل کرنے کے لئے اپنا صارف ID دیکھیں";
+"cash_out_user_id_title" = "صارف کی شناخت";
+"cash_out_link_button" = "فراہم کنندہ کے پاس جائیں";
+"cash_out_code_title" = "ادائیگی کا کوڈ";
+"cash_out_code_instructions" = "ادائیگی کے لئے اس کوڈ کا استعمال کریں";
+"cash_out_link_instructions" = "لین دین شروع کرنے کے لئے نیچے کلک کریں";
+"cash_out_pago46_link_footer" = "پاگو 46 کے ذریعے پی سکتا ہے";
+"cash_out_dragonpay_user_id_footer" = "ڈریگن کے ذریعے پی سکتے ہیں";
+"cash_out_easypay_code_footer" = "";
+"wallet_top_up_voucher_error" = "یہ واؤچر نہیں چھڑانا";
+"request_break_not_allowed_ongoing_delivery" = "اب آپ کو آرڈر دینا ہوگا ، وقفے کی درخواست ڈراپ آف کے بعد جائیں۔";
+"request_break_not_allowed_high_delayed" = "مزار ، آپ ابھی بریک پر نہیں جاسکتے ہیں
+ہمیں آپ کی ضرورت ہے";
+"request_break_not_allowed_for_current_state" = "آپ کے وقفے سے متعلق درخواست کے لئے کام کرنے کی درخواست کے پابند ہیں";
+"onboarding" = "سبق";
+"benefits" = "فوائد";
+"user_profile" = "میری پروفائل";
+"shifts" = "شفٹوں";
+"pending_transaction_warning" = "کیش آؤٹ کیلئے ایپلی کیشن کا نیا ورژن ڈاؤن لوڈ کریں۔";
+"pending_transaction_warning_subtitle" = "زیر التوا کیش آؤٹ";
+"break_ending_at" = "<منٹ> میں ختم";
+"shift_extension" = "";
+"shift_extension_explanation" = "";
+"notification_detail_title" = "";
+"end_break" = "";
+"login_phone_placeholder_title" = "";
+"heat_map" = "";
+"customer_chat_quick_reply_omw" = "";
+"customer_chat_quick_reply_ok" = "ٹھیک ہے";
+"customer_chat_quick_reply_im_here" = "";
+"customer_chat_quick_reply_will_be_soon" = "";
+"customer_chat_quick_reply_wrong_address" = "";
+"chat_exit_error_message" = "";
