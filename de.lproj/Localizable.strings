@@ -66,7 +66,7 @@
 "status_ask_report_issue" = "Welches Problem möchtest du melden?";
 "status_report_issue_success" = "Du wirst in Kürze von einem Dispatcher angerufen um Dein gemeldetes Problem zu lösen. Wenn Du weiter arbeiten möchtest, klicke auf den Button unten.";
 "status_select_issue" = "Problem auswählen";
-"status_user_identity_placeholder" = "";
+"status_user_identity_placeholder" = "Nationale ID-Nummer";
 "status_report_issue_reason_customer_not_found" = "Kunde nicht auffindbar";
 "status_report_issue_reason_break_request" = "Pause anfragen";
 "status_report_issue_reason_equipment_issue" = "Equipment Problem";
