@@ -17,7 +17,7 @@
 "address" = "Adresse";
 "feedback_received" = "Feedback erhalten, danke!";
 "minutes" = "Minuten";
-"next" = "Nächster";
+"next" = "";
 // LOGIN SCREEN
 "email" = "Email-Adresse";
 "email_placeholder" = "beispiel@mail.com";
@@ -66,7 +66,7 @@
 "status_ask_report_issue" = "Welches Problem möchtest du melden?";
 "status_report_issue_success" = "Du wirst in Kürze von einem Dispatcher angerufen um Dein gemeldetes Problem zu lösen. Wenn Du weiter arbeiten möchtest, klicke auf den Button unten.";
 "status_select_issue" = "Problem auswählen";
-"status_user_identity_placeholder" = "Nationale ID-Nummer";
+"status_user_identity_placeholder" = "";
 "status_report_issue_reason_customer_not_found" = "Kunde nicht auffindbar";
 "status_report_issue_reason_break_request" = "Pause anfragen";
 "status_report_issue_reason_equipment_issue" = "Equipment Problem";
@@ -105,7 +105,9 @@
 "delivery_pick_up_over_due_reason_not_there_yet" = "Ich bin noch nicht dort";
 "delivery_pick_up_over_due_reason_food_ready" = "Essen ist fertig";
 "privacy_policy_agree" = "Ich bin einverstanden mit den";
-"privacy_policy_italian_description" = "L’app ha bisogno di accedere alla tua posizione. Clicca su \"START\" acconsentendo al trattamento dei dati per finalità di geo-localizzazione. Informativa completa:";
+"privacy_policy_italian_description" = "L’app ha bisogno di accedere alla tua posizione. 
+Clicca su \"START\" acconsentendo al trattamento dei dati per finalità di geo-localizzazione. 
+Informativa completa:";
 "privacy_policy_description" = "Roadrunner Datenschutzrichtlinien";
 "new_delivery" = "Neue Lieferung";
 "new_deliveries" = "Neue Lieferungen";
@@ -117,7 +119,9 @@
 "delivery_pay_to_vendor" = "Restaurant bar bezahlen";
 "delivery_collect_cash_from_customer" = "Bargeld vom Kunden entgegennehmen";
 "amount" = "Betrag";
+
 "delivery_cod_reason_for_difference" = "Grund für Abweichung";
+
 "paid" = "Bezahlt";
 "delivery_cod_requested_change_for" = "Kunde bittet um Wechselgeld für %@";
 "pick_up" = "Pickup";
@@ -134,6 +138,7 @@
 "delivery_cod_reason_customer_wont_pay" = "Kunde zahlt nicht";
 "delivery_cod_reason_canceled_order" = "Bestellung gecancelled";
 "delivery_cod_reason_courier_not_compliant" = "Kurier nicht konform";
+
 // HISTORY TAB
 "history" = "Verlauf";
 "latest_delivery" = "Letzte Lieferung";
@@ -176,6 +181,7 @@
 "cash_transactions" = "Bargeldzahlung";
 "issues" = "Probleme";
 "view_barcode" = "Strichcode anzeigen";
+
 "transaction_failed_description" = "Kontaktiere den Dispatcher";
 "empty_view_no_wallet_title" = "Keine Bargeldeinzahlung gefunden.";
 "other" = "Andere";
@@ -200,6 +206,7 @@
 "thank_you" = "Danke!";
 "survey_rating_completed_positive" = "Wir freuen uns, dass es dir gefällt.";
 "survey_rating_completed_negative" = "Schade zu hören.";
+
 "refer_a_friend" = "Refer a Friend!";
 "support" = "Kurier Support";
 "live_chat" = "Live-Chat";
@@ -211,8 +218,8 @@
 "map_route" = "Kartenroute";
 "address_district" = "Stadtteil";
 "address_block" = "Block";
-"notification" = "Benachrichtigung";
-"warning" = "Warnung";
+"notification" = "";
+"warning" = "";
 "clear" = "";
 "save_signature_dropoff" = "";
 "signature_description" = "";
@@ -221,6 +228,7 @@
 "delivery_credit_card" = "";
 "delivery_credit_card_detail" = "";
 "delivery_customer_signature" = "";
+
 "customer_chat_send_place_holder" = "";
 "chat_preferred_language" = "";
 "chat_typing" = "";
@@ -229,9 +237,11 @@
 "wallet_top_up_description" = "";
 "wallet_top_up_invalid_number" = "";
 "send" = "";
+
 "reset_password" = "";
 "reset_password_success" = "";
 "forgot_password" = "Passwort vergessen?";
+
 "delivery_pay_at_pickup" = "";
 "cash" = "";
 "delivery_earning" = "";
@@ -308,8 +318,8 @@
 "pending_transaction_warning" = "";
 "pending_transaction_warning_subtitle" = "";
 "break_ending_at" = "";
-"shift_extension" = "";
-"shift_extension_explanation" = "";
+"shift_extension" = "Schichtverlängerung";
+"shift_extension_explanation" = "Ich bin bereit meine Schicht zu verlängern";
 "notification_detail_title" = "";
 "end_break" = "";
 "login_phone_placeholder_title" = "";
@@ -320,7 +330,40 @@
 "customer_chat_quick_reply_will_be_soon" = "";
 "customer_chat_quick_reply_wrong_address" = "";
 "chat_exit_error_message" = "";
-"new_key" = "Alarm";
-"new_key2" = "Noch ein Schlüssel";
-"new_key3" = "Noch ein neuer Schlüssel";
-"hello_world" = "Hallo Welt";
+"delivery_upload_proof_button" = "";
+"delivery_upload_proof_screen_title" = "";
+"delivery_upload_proof_note" = "";
+"delivery_upload_proof_photo_attached" = "";
+"delivery_upload_proof_failure" = "";
+"delivery_upload_proof_failure_description" = "";
+"customer_chat_quick_reply_will_leave_at_doorstep" = "";
+"customer_chat_quick_reply_food_is_preparing" = "";
+"customer_chat_quick_reply_cant_reach" = "";
+"customer_chat_quick_reply_are_available_for_call" = "";
+"cash_out_qrcode_instructions" = "";
+"cash_out_tng_qrcode_footer" = "";
+"mandatory_pop_dialog_message" = "";
+"deliver_anything_title" = "";
+"delivery_estimated_value" = "";
+"pay_cash_title" = "";
+"delivery_redispatch_confirmation_title" = "";
+"delivery_redispatch_confirmation_message" = "";
+"delivery_redispatch_button_title" = "";
+"refer_a_friend_prefix" = "";
+"camera_permission_error" = "";
+"delivery_accept_product_item" = "";
+"delivery_accept_product_items" = "";
+"temperature_placeholder" = "";
+"privacy_location_policy" = "";
+"wallet_history" = "";
+"delivery_decline_confirmation_title" = "";
+"delivery_decline_confirmation_message" = "";
+"rider_shopper_title" = "";
+"navigate_to_pelican" = "";
+"acceptance_rate" = "";
+"cash_out_bank_transfer_wallet_balance" = "";
+"cash_out_bank_transfer_amount" = "";
+"cash_out_bank_transfer_message" = "";
+"cash_out_bank_transfer_info" = "";
+"cash_out_bank_transfer_fail_message" = "";
+"cash_out_bank_transfer_success_message" = "";

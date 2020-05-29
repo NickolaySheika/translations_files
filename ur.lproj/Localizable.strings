@@ -319,7 +319,7 @@
 "cash_out_link_instructions" = "لین دین شروع کرنے کے لئے نیچے کلک کریں";
 "cash_out_pago46_link_footer" = "پاگو 46 کے ذریعے پی سکتا ہے";
 "cash_out_dragonpay_user_id_footer" = "ڈریگن کے ذریعے پی سکتے ہیں";
-"cash_out_easypay_code_footer" = "";
+"cash_out_easypay_code_footer" = "آپ مذکورہ کوڈ کا استعمال کرتے ہوئے اِیس پے / ایپی چینلز کے ذریعے ادائیگی کرسکتے ہیں۔ جب کوڈ کی میعاد ختم ہوجائے گی تو ، آپ کسی نئے سے درخواست کرنے کے قابل ہوجائیں گے۔";
 "wallet_top_up_voucher_error" = "یہ واؤچر نہیں چھڑانا";
 "request_break_not_allowed_ongoing_delivery" = "اب آپ کو آرڈر دینا ہوگا ، وقفے کی درخواست ڈراپ آف کے بعد جائیں۔";
 "request_break_not_allowed_high_delayed" = "مزار ، آپ ابھی بریک پر نہیں جاسکتے ہیں
@@ -332,15 +332,52 @@
 "pending_transaction_warning" = "کیش آؤٹ کیلئے ایپلی کیشن کا نیا ورژن ڈاؤن لوڈ کریں۔";
 "pending_transaction_warning_subtitle" = "زیر التوا کیش آؤٹ";
 "break_ending_at" = "<منٹ> میں ختم";
-"shift_extension" = "";
-"shift_extension_explanation" = "";
-"notification_detail_title" = "";
-"end_break" = "";
-"login_phone_placeholder_title" = "";
-"heat_map" = "";
-"customer_chat_quick_reply_omw" = "";
+"shift_extension" = "شفٹ توسیع";
+"shift_extension_explanation" = "میں اپنی شفٹ میں توسیع کرنے کے لئے دستیاب ہوں";
+"notification_detail_title" = "پیغام";
+"end_break" = "اختتام وقفہ";
+"login_phone_placeholder_title" = "فون";
+"heat_map" = "حرارت کا نقشہ";
+"customer_chat_quick_reply_omw" = "Raastay mein hoon";
 "customer_chat_quick_reply_ok" = "ٹھیک ہے";
-"customer_chat_quick_reply_im_here" = "";
-"customer_chat_quick_reply_will_be_soon" = "";
-"customer_chat_quick_reply_wrong_address" = "";
-"chat_exit_error_message" = "";
+"customer_chat_quick_reply_im_here" = "Main agaya hoon";
+"customer_chat_quick_reply_will_be_soon" = "Main pohanchnay wala hoon";
+"customer_chat_quick_reply_wrong_address" = "Address nahi mil paa raha";
+"chat_exit_error_message" = "جانے سے پہلے جواب دیں";
+"delivery_upload_proof_button" = "اپ لوڈ اور ڈراپ آف";
+"delivery_upload_proof_screen_title" = " تصویر لے لو";
+"delivery_upload_proof_note" = " تصویر لے لو";
+"delivery_upload_proof_photo_attached" = "تصویر منسلک";
+"delivery_upload_proof_failure" = "فائل اپ لوڈ کرنے سے قاصر ہے";
+"delivery_upload_proof_failure_description" = "آپ دوبارہ کوشش کر سکتے ہیں۔";
+"customer_chat_quick_reply_will_leave_at_doorstep" = "Main order door pe rakh raha hoon";
+"customer_chat_quick_reply_food_is_preparing" = "Restaurant order prepare kar raha hai";
+"customer_chat_quick_reply_cant_reach" = "Main aap tak nahi pohanch paa raha";
+"customer_chat_quick_reply_are_available_for_call" = "Kya aap call utha sakty hain?";
+"cash_out_qrcode_instructions" = "براہ کرم کیش آؤٹ کو مکمل کرنے کے لئے کیو آر کوڈ اسکین کریں";
+"cash_out_tng_qrcode_footer" = "";
+"mandatory_pop_dialog_message" = "آپ پک اپ ایریا سے بہت دور ہیں۔ لینے کا ثبوت ضروری ہے";
+"deliver_anything_title" = "کچھ بھی پہنچائیں";
+"delivery_estimated_value" = "تخمینی قیمت";
+"pay_cash_title" = "رقم ادا کرنا";
+"delivery_redispatch_confirmation_title" = "ریڈیسپیچ آرڈر";
+"delivery_redispatch_confirmation_message" = "کیا تمہیں یقین ہے؟ اگر آپ آگے بڑھتے ہیں تو ، یہ آرڈر کسی دوسرے سوار کو دیا جائے گا";
+"delivery_redispatch_button_title" = "ریڈیسپیچ آرڈر";
+"refer_a_friend_prefix" = "اس لنک پر کلک کریں اور ہیرو رائیڈر بن جائیں!";
+"camera_permission_error" = "کیمرے کی اجازت نہیں دی گئی!";
+"delivery_accept_product_item" = "آئٹم";
+"delivery_accept_product_items" = "اشیاء";
+"temperature_placeholder" = "جسمانی درجہ حرارت ° C";
+"privacy_location_policy" = "مقام کی معلومات کی پالیسی";
+"wallet_history" = "";
+"delivery_decline_confirmation_title" = "آرڈر کو مسترد کریں";
+"delivery_decline_confirmation_message" = "کیا آپ واقعی اس آرڈر کو رد کرنا چاہتے ہیں؟";
+"rider_shopper_title" = "";
+"navigate_to_pelican" = "";
+"acceptance_rate" = "";
+"cash_out_bank_transfer_wallet_balance" = "";
+"cash_out_bank_transfer_amount" = "";
+"cash_out_bank_transfer_message" = "";
+"cash_out_bank_transfer_info" = "";
+"cash_out_bank_transfer_fail_message" = "";
+"cash_out_bank_transfer_success_message" = "";

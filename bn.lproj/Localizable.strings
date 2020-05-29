@@ -105,7 +105,7 @@
 "delivery_pick_up_over_due_delay_message_prompt" = "অনুগ্রহ করে %@ কে জিজ্ঞেস করুন খাবার তৈরী শেষ হতে আর কতটুকু সময় লাগবে";
 "delivery_pick_up_over_due_reason_not_there_yet" = "এখনো পৌঁছায়নি ";
 "delivery_pick_up_over_due_reason_food_ready" = "খাবার বানানো শেষ";
-"privacy_policy_agree" = "আমি সম্মতি প্রকাশ করছি যে";
+"privacy_policy_agree" = "আমি নিশ্চিত করি যে আমি স্থিত-হোম নোটিশ / অনুপস্থিতির ছাড়পত্র / কোয়ারেন্টাইন-এর আওতাধীন নই এবং আমার তাপমাত্রা 37.5 ডিগ্রি সেন্টিগ্রেডের নিচে এবং";
 "privacy_policy_italian_description" = "অ্যাপটি আপনার লোকেশন জানতে চাইছে।
 জিও- লোকালাইজেশন তথ্য প্রক্রিয়াকরণের জন্য \"Start\" বাটনে ক্লিক করে সম্মতি প্রদান করুন।
 সম্পূর্ণ তথ্যাদি:";
@@ -230,7 +230,7 @@
 "delivery_credit_card_detail" = "পেমেন্ট সংগ্রহ করতে আপনার POS ডিভাইস ব্যবহার করুন";
 "delivery_customer_signature" = "গ্রাহক স্বাক্ষর ক্যাপচার";
 
-"customer_chat_send_place_holder" = "গ্রাহকের একটি উত্তর পাঠান";
+"customer_chat_send_place_holder" = "গ্রাহককে রিপ্লাই দিন";
 "chat_preferred_language" = "পছন্দের চ্যাট ভাষা";
 "chat_typing" = "টাইপিং";
 "wallet_top_up" = "টপ আপ ";
@@ -285,30 +285,32 @@
 "freshchat_chat_resolution_user_comments_hint" = "আরও তথ্য ";
 "wallet_top_up_success" = "সফল ";
 "wallet_top_up_success_description" = "ওয়ালেট এ যুক্ত হয়েছে ";
-"delivery_qrcode_confirm_payment" = "";
-"delivery_qrcode_display_ask_customer_to_scan" = "";
-"delivery_qrcode_paid_success" = "";
+"delivery_qrcode_confirm_payment" = "কিউআর কোড সহ সংগ্রহ করুন";
+"delivery_qrcode_display_ask_customer_to_scan" = "গ্রাহককে কিউআর কোডটি স্ক্যান করতে বলুন।";
+"delivery_qrcode_paid_success" = "
+অর্থ প্রদান সফলভাবে করা হয়েছে ";
 "request_break" = "বিরতির জন্য অনুরোধ";
 "warning_confirmation_sure" = "আপনি  কি নিশ্চিত?";
 "request_break_confirmation_message" = "আপনি কি নিশ্চিত? অর্ডার আসছে! বিরতিতে যাওয়া আপনার মূল্যায়নে প্রভাব ফেলবে";
-"continue" = "";
-"select_duration" = "";
-"please_select" = "";
+"continue" = "চালিয়ে যান ";
+"select_duration" = "সময়কাল নির্বাচন করুন";
+"please_select" = "অনুগ্রহ করে নির্বাচন করুন";
 "request_break_not_allowed" = "দুঃখিত, আপনি এখনই বিরতিতে যেতে পারবেন না। আপনি আমাদের দরকার!";
 "request_break_success" = "আপনি বিরতিতে আছেন ..পর্যন্ত";
-"success" = "";
-"cash_out" = "";
-"select_provider" = "";
-"cash_out_user_id_instructions" = "";
-"cash_out_user_id_title" = "";
-"cash_out_link_button" = "";
-"cash_out_code_title" = "";
-"cash_out_code_instructions" = "";
-"cash_out_link_instructions" = "";
-"cash_out_pago46_link_footer" = "";
-"cash_out_dragonpay_user_id_footer" = "";
-"cash_out_easypay_code_footer" = "";
-"wallet_top_up_voucher_error" = "";
+"success" = "সাফল্য";
+"cash_out" = "ক্যাশ আউট ";
+"select_provider" = "দয়া করে কোনও অর্থ প্রদানকারীর নির্বাচন করুন";
+"cash_out_user_id_instructions" = "অর্থ প্রদান সম্পূর্ণ করতে আপনার ব্যবহারকারীর আইডি দেখুন";
+"cash_out_user_id_title" = "ব্যবহারকারী আইডি";
+"cash_out_link_button" = "%@ এ যান";
+"cash_out_code_title" = "পেমেন্ট কোড";
+"cash_out_code_instructions" = "অর্থ প্রদান সম্পূর্ণ করতে নীচের কোডটি ব্যবহার করুন";
+"cash_out_link_instructions" = "আপনার লেনদেন শুরু করতে নীচে ক্লিক করুন";
+"cash_out_pago46_link_footer" = "আপনি পেগো 46 এর মাধ্যমে প্রদান করতে পারেন";
+"cash_out_dragonpay_user_id_footer" = "
+আপনি ড্রাগনপে এর মাধ্যমে প্রদান করতে পারেন";
+"cash_out_easypay_code_footer" = "উপরের কোডটি ব্যবহার করে আপনি ইজি পে / ই পে চ্যানেলের মাধ্যমে অর্থ প্রদান করতে পারেন। কোডটির মেয়াদ শেষ হয়ে গেলে আপনি নতুনটির জন্য অনুরোধ করতে সক্ষম হবেন।";
+"wallet_top_up_voucher_error" = "এই ভাউচারটি খালাস করা সম্ভব ছিল না।";
 "request_break_not_allowed_ongoing_delivery" = "আপনার একটি অর্ডার রয়েছে ডেলিভার করার জন্য। ড্রপ অফ করার পর বিরতির জন্য অনুরোধ করুন।";
 "request_break_not_allowed_high_delayed" = "দুঃখিত, আপনি এখনই বিরতিতে যেতে পারবেন না। আপনি আমাদের দরকার!";
 "request_break_not_allowed_for_current_state" = "বিরতির অনুরোধ করার জন্য আপনার অবশ্যই কাজ করা উচিত।";
@@ -319,15 +321,57 @@
 "pending_transaction_warning" = "ক্যাশ আউট করতে সক্ষম হতে অ্যাপ্লিকেশনটির নতুন সংস্করণে আপডেট করুন।";
 "pending_transaction_warning_subtitle" = "ক্যাশ আউট বাকি রয়েছে ";
 "break_ending_at" = "<মিনিটস> এ শেষ হচ্ছে";
-"shift_extension" = "";
-"shift_extension_explanation" = "";
-"notification_detail_title" = "";
-"end_break" = "";
-"login_phone_placeholder_title" = "";
-"heat_map" = "";
-"customer_chat_quick_reply_omw" = "";
+"shift_extension" = "শিফট এক্সটেনশন";
+"shift_extension_explanation" = "আমার শিফট এক্সটেন্ড করতে আমি রাজি আছি ";
+"notification_detail_title" = "মেসেজ";
+"end_break" = "এন্ড ব্রেক ";
+"login_phone_placeholder_title" = "ফোন";
+"heat_map" = "হিট ম্যাপ ";
+"customer_chat_quick_reply_omw" = "আমি যাচ্ছি";
 "customer_chat_quick_reply_ok" = "OK";
-"customer_chat_quick_reply_im_here" = "";
-"customer_chat_quick_reply_will_be_soon" = "";
-"customer_chat_quick_reply_wrong_address" = "";
-"chat_exit_error_message" = "";
+"customer_chat_quick_reply_im_here" = "আমি এখানে";
+"customer_chat_quick_reply_will_be_soon" = "আমি সেখানে তাড়াতাড়ি থাকবো";
+"customer_chat_quick_reply_wrong_address" = "আমি আপনার ঠিকানা খুঁজে পাচ্ছি না";
+"chat_exit_error_message" = "এখন থেকে চলে যাওয়ার আগে রিপ্লাই দিন";
+"delivery_upload_proof_button" = "আপলোড এবং ড্রপ-অফ";
+"delivery_upload_proof_screen_title" = "একটি ছবি তুলুন";
+"delivery_upload_proof_note" = "একটি ছবি তুলুন";
+"delivery_upload_proof_photo_attached" = "ছবি সংযুক্ত";
+"delivery_upload_proof_failure" = "ফাইল আপলোড করতে অক্ষম";
+"delivery_upload_proof_failure_description" = "আপনি আবার চেষ্টা করতে পারেন";
+"customer_chat_quick_reply_will_leave_at_doorstep" = "অর্ডারটি দোরগোড়ায় রেখে দেব";
+"customer_chat_quick_reply_food_is_preparing" = "রেস্তোঁরা খাবার তৈরি করছে";
+"customer_chat_quick_reply_cant_reach" = "আমি তোমার কাছে পৌঁছতে পারছি না";
+"customer_chat_quick_reply_are_available_for_call" = "
+আপনি কি কলটির উত্তর দেওয়ার জন্য আছেন? ";
+"cash_out_qrcode_instructions" = "ক্যাশ আউটটি সম্পূর্ণ করতে দয়া করে কিউআর কোডটি স্ক্যান করুন";
+"cash_out_tng_qrcode_footer" = "";
+"mandatory_pop_dialog_message" = "
+আপনি পিকআপ অঞ্চল থেকে অনেক দূরে। পিকআপের একটি প্রমাণ প্রয়োজন";
+"deliver_anything_title" = "যেকোনো কিছু ডেলিভার করুন ";
+"delivery_estimated_value" = "
+আনুমানিক মূল্য";
+"pay_cash_title" = "ক্যাশ পে ";
+"delivery_redispatch_confirmation_title" = "রি-ডিসপ্যাচ অর্ডার ";
+"delivery_redispatch_confirmation_message" = "
+তুমি কি নিশ্চিত? আপনি যদি এগিয়ে যান তবে এই অর্ডারটি অন্য রাইডারকে দেওয়া হবে";
+"delivery_redispatch_button_title" = "রি-ডিসপ্যাচ অর্ডার ";
+"refer_a_friend_prefix" = "
+হাই, রাইডার দলে যোগ দিন, এখনই লিঙ্কটি ব্যবহার করুন।";
+"camera_permission_error" = "ক্যামেরার পারমিশন গৃহীত হয়নি!";
+"delivery_accept_product_item" = "আইটেম ";
+"delivery_accept_product_items" = "আইটেম ";
+"temperature_placeholder" = "শরীরের তাপমাত্রা ";
+"privacy_location_policy" = "লোকাল ইনফরমেশন পলিসি ";
+"wallet_history" = "বিবরণ ";
+"delivery_decline_confirmation_title" = "অর্ডার প্রত্যাখ্যান";
+"delivery_decline_confirmation_message" = "আপনি কি নিশ্চিত যে অর্ডারটি প্রত্যাখ্যান করবেন?";
+"rider_shopper_title" = "";
+"navigate_to_pelican" = "";
+"acceptance_rate" = "";
+"cash_out_bank_transfer_wallet_balance" = "ওয়ালেট ব্যালান্স ";
+"cash_out_bank_transfer_amount" = "ক্যাশ আউট এমাউন্ট ";
+"cash_out_bank_transfer_message" = "";
+"cash_out_bank_transfer_info" = "রোস্টার প্রোফাইল এ দেওয়া ফোন নম্বরটি ব্যবহার হবে ";
+"cash_out_bank_transfer_fail_message" = "";
+"cash_out_bank_transfer_success_message" = "";
