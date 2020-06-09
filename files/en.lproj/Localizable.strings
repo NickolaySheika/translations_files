@@ -378,3 +378,5 @@
 "cash_out_bank_transfer_error_amount_gt_balance" = "Amount is greater than courier balance";
 "cash_out_bank_transfer_error_request_failed" = "Withdraw request failed";
 "cash_out_bank_transfer_error_courier_fetch" = "Rider's info couldn't be fetched from rooster";
+"just_hello" = "Just hello";
+"hello_world_ios" = "Hello world";
