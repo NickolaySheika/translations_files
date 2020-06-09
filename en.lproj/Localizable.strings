@@ -344,7 +344,7 @@
 "cash_out_qrcode_instructions" = "Please scan the QR code to complete the cashout";
 "cash_out_tng_qrcode_footer" = "";
 "mandatory_pop_dialog_message" = "You're far away from the pickup area. A proof of pickup is required";
-"deliver_anything_title" = "Deliver Anything";
+"deliver_anything_title" = "Faza'a";
 "delivery_estimated_value" = "Estimated Value";
 "pay_cash_title" = "Pay Cash";
 "delivery_redispatch_confirmation_title" = "Redispatch Order";
@@ -365,6 +365,16 @@
 "cash_out_bank_transfer_wallet_balance" = "Wallet Balance";
 "cash_out_bank_transfer_amount" = "Cash Out Amount";
 "cash_out_bank_transfer_message" = "Only the amount added 48hrs prior can be transferred. You can transfer the amount between 200 and 2000 SAR";
-"cash_out_bank_transfer_info" = "Phone number in rooster profile will be used";
+"cash_out_bank_transfer_info" = "Your STC Pay Account that you have input in the E badge will be used";
 "cash_out_bank_transfer_fail_message" = "Your transfer request failed";
 "cash_out_bank_transfer_success_message" = "Your transfer request was successfuly processed";
+"cash_out_bank_transfer_error_multiple_pending_transactions" = "There should be only one pending transaction";
+"cash_out_bank_transfer_error_phone_empty" = "Rider's phone number couldn't be found";
+"cash_out_bank_transfer_error_auth_failed" = "Authentication failed";
+"cash_out_bank_transfer_error_integration_disabled" = "StcPay integration is disabled";
+"cash_out_bank_transfer_error_courier_not_found" = "Courier not found";
+"cash_out_bank_transfer_error_min_limit" = "Amount is less than min limit";
+"cash_out_bank_transfer_error_max_limit" = "Amount is greater than max limit";
+"cash_out_bank_transfer_error_amount_gt_balance" = "Amount is greater than courier balance";
+"cash_out_bank_transfer_error_request_failed" = "Withdraw request failed";
+"cash_out_bank_transfer_error_courier_fetch" = "Rider's info couldn't be fetched from rooster";

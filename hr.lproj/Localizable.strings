@@ -367,3 +367,13 @@ Ako želiš raditi, javi nam i dispatcheri će te nazvati ako nam bude trebalo v
 "cash_out_bank_transfer_info" = "";
 "cash_out_bank_transfer_fail_message" = "";
 "cash_out_bank_transfer_success_message" = "";
+"cash_out_bank_transfer_error_multiple_pending_transactions" = "";
+"cash_out_bank_transfer_error_phone_empty" = "";
+"cash_out_bank_transfer_error_auth_failed" = "";
+"cash_out_bank_transfer_error_integration_disabled" = "";
+"cash_out_bank_transfer_error_courier_not_found" = "";
+"cash_out_bank_transfer_error_min_limit" = "";
+"cash_out_bank_transfer_error_max_limit" = "";
+"cash_out_bank_transfer_error_amount_gt_balance" = "";
+"cash_out_bank_transfer_error_request_failed" = "";
+"cash_out_bank_transfer_error_courier_fetch" = "";

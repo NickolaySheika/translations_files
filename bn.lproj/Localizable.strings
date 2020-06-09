@@ -94,10 +94,10 @@
 "delivery_next_steps" = "পরবর্তী ধাপগুলো";
 "empty_view_no_devlieries" = "আপনার কোনো অপেক্ষমান ডেলিভারি নেই।";
 "empty_view_no_devlieries_description" = "অনুগ্রহ করে আপনার জোনাল অফিসে ফিরে যান";
-"delivery_pick_up_deliveries_confirmation" = "আপনি কি ডেলিভারিগুলো তুলে নিয়েছেন ?";
-"delivery_pick_up_delivery_confirmation" = "আপনি কি ডেলিভারিটি তুলে নিয়েছেন ?";
-"delivery_drop_off_deliveries_confirmation" = "আপনি কি ডেলিভারিগুলো পৌছে দেয়া শেষ করেছেন ? ";
-"delivery_drop_off_delivery_confirmation" = "আপনি কি ডেলিভারিটি পৌছে দেয়া শেষ করেছেন ?";
+"delivery_pick_up_deliveries_confirmation" = "আপনি কি ডেলিভারিগুলো পিক আপ করেছেন?";
+"delivery_pick_up_delivery_confirmation" = "আপনি কি ডেলিভারিটি পিক আপ করেছেন??";
+"delivery_drop_off_deliveries_confirmation" = "আপনি কি ডেলিভারিগুলো ড্রপ-অফ  করেছেন ? ";
+"delivery_drop_off_delivery_confirmation" = "আপনি কি ডেলিভারিটি ড্রপ-অফ করেছেন ?";
 "accept" = "গ্রহণ করুন";
 "confirm" = "নিশ্চিত করুন";
 "delivery_pick_up_over_due" = "তুলে নেয়ার সময় পার হয়ে গিয়েছে";
@@ -105,7 +105,7 @@
 "delivery_pick_up_over_due_delay_message_prompt" = "অনুগ্রহ করে %@ কে জিজ্ঞেস করুন খাবার তৈরী শেষ হতে আর কতটুকু সময় লাগবে";
 "delivery_pick_up_over_due_reason_not_there_yet" = "এখনো পৌঁছায়নি ";
 "delivery_pick_up_over_due_reason_food_ready" = "খাবার বানানো শেষ";
-"privacy_policy_agree" = "আমি নিশ্চিত করি যে আমি স্থিত-হোম নোটিশ / অনুপস্থিতির ছাড়পত্র / কোয়ারেন্টাইন-এর আওতাধীন নই এবং আমার তাপমাত্রা 37.5 ডিগ্রি সেন্টিগ্রেডের নিচে এবং";
+"privacy_policy_agree" = "আমি নিশ্চিত করি যে";
 "privacy_policy_italian_description" = "অ্যাপটি আপনার লোকেশন জানতে চাইছে।
 জিও- লোকালাইজেশন তথ্য প্রক্রিয়াকরণের জন্য \"Start\" বাটনে ক্লিক করে সম্মতি প্রদান করুন।
 সম্পূর্ণ তথ্যাদি:";
@@ -127,8 +127,8 @@
 "delivery_cod_requested_change_for" = "গ্রাহক ভাংতি চেয়েছে %@";
 "pick_up" = "তুলে নেয়া";
 "drop_off" = "পৌঁছে দেয়া";
-"delivery_confirm_pick_up" = "তুলে নেয়া নিশ্চিত করুন";
-"delivery_confirm_drop_off" = "পৌঁছে দেয়া নিশ্চিত করুন";
+"delivery_confirm_pick_up" = "পিক-আপ  নিশ্চিত করুন";
+"delivery_confirm_drop_off" = "ড্রপ-অফ নিশ্চিত করুন";
 "delivery_cod_investigation_follows" = "তদন্ত করা হবে";
 "delivery_cod_cash_discrepancy_fraud_warning" = "যেকোনো প্রকার প্রতারণা থেকে রক্ষা পেতে, যখনই কোনো নগদ অর্থের গরমিল সম্পর্কে আপনি আমাদেরকে জানাবেন, আপনার জানানোর প্রেক্ষিতে আমরা ঘটনাটি তদন্ত করে দেখবো।\n\n আর আপনি যদি নগদ অর্থের কোনো রকম গরমিল সম্পর্কে আমাদেরকে না জানান তাহলে উক্ত গরমিলের সম্পূর্ণ দায়দায়িত্ত্ব আপনাকে বহন করতে হবে।";
 "report_successful" = "রিপোর্ট করা সফল হয়েছে";
@@ -375,3 +375,13 @@
 "cash_out_bank_transfer_info" = "রোস্টার প্রোফাইল এ দেওয়া ফোন নম্বরটি ব্যবহার হবে ";
 "cash_out_bank_transfer_fail_message" = "";
 "cash_out_bank_transfer_success_message" = "";
+"cash_out_bank_transfer_error_multiple_pending_transactions" = "";
+"cash_out_bank_transfer_error_phone_empty" = "";
+"cash_out_bank_transfer_error_auth_failed" = "";
+"cash_out_bank_transfer_error_integration_disabled" = "";
+"cash_out_bank_transfer_error_courier_not_found" = "";
+"cash_out_bank_transfer_error_min_limit" = "";
+"cash_out_bank_transfer_error_max_limit" = "";
+"cash_out_bank_transfer_error_amount_gt_balance" = "";
+"cash_out_bank_transfer_error_request_failed" = "";
+"cash_out_bank_transfer_error_courier_fetch" = "";

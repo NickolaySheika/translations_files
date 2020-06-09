@@ -356,7 +356,7 @@ Daca esti interesat sa lucrezi acum, anunta-ne si te vom contacta daca vom avea 
 "delivery_accept_product_items" = "";
 "temperature_placeholder" = "";
 "privacy_location_policy" = "";
-"wallet_history" = "";
+"wallet_history" = "Istoricul portofelului";
 "delivery_decline_confirmation_title" = "";
 "delivery_decline_confirmation_message" = "";
 "rider_shopper_title" = "";
@@ -368,3 +368,13 @@ Daca esti interesat sa lucrezi acum, anunta-ne si te vom contacta daca vom avea 
 "cash_out_bank_transfer_info" = "";
 "cash_out_bank_transfer_fail_message" = "";
 "cash_out_bank_transfer_success_message" = "";
+"cash_out_bank_transfer_error_multiple_pending_transactions" = "";
+"cash_out_bank_transfer_error_phone_empty" = "";
+"cash_out_bank_transfer_error_auth_failed" = "";
+"cash_out_bank_transfer_error_integration_disabled" = "";
+"cash_out_bank_transfer_error_courier_not_found" = "";
+"cash_out_bank_transfer_error_min_limit" = "";
+"cash_out_bank_transfer_error_max_limit" = "";
+"cash_out_bank_transfer_error_amount_gt_balance" = "";
+"cash_out_bank_transfer_error_request_failed" = "";
+"cash_out_bank_transfer_error_courier_fetch" = "";
