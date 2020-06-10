@@ -369,4 +369,5 @@
 "cash_out_bank_transfer_error_courier_fetch" = "Rider's info couldn't be fetched from rooster";
 "just_hello" = "Just hello";
 "hello_world_ios" = "Hello world";
-new_key=This is new key
+"new_key" = "This is new key";
+new_key2=One more new key
