@@ -370,4 +370,5 @@
 "just_hello" = "Just hello";
 "hello_world_ios" = "Hello world";
 "new_key" = "This is new key";
-new_key2=One more new key
+"new_key2" = "One more new key";
+new_key3=new key 3
